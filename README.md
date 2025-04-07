@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
   <br><br>
-  <p style="font-family: 'Georgia', serif;"><em>"Curiosity is merely the spark that leads us to begin our journey. It ignites our desire for the unknown, yet is insufficient to illuminate the entire path."</em></p>
+  <p style="font-family: 'Georgia', serif;"><em>"Curiosity is the spark that lights the flame of our journey, but it is not enough to illuminate the entire path"</em></p>
 </div>
 
 ## 💻 Tech Stack
@@ -36,17 +36,8 @@
   
 </div>
 
-## ⏱️ Coding Time Stats
-
-<div align="center">
-  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcodetime.dev%2Fapi%2Fshield%3Fusername%3Dcloudingyu%26color%3D41B883" alt="CodeTime.dev Stats" />
-  
-  <a href="https://codetime.dev/cloudingyu" target="_blank">
-    <img src="https://codetime-readme.codetime.dev/cloudingyu" alt="CloudingYu's coding time" width="80%" />
-  </a>
-</div>
-
 ## 📊 My GitHub Stats
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=41B883&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31966%26project%3D%26in=0">
 
 <div align="center">
   <!-- 首先显示贡献图，作为最全面的概览 -->
