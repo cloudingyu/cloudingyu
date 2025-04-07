@@ -1,8 +1,6 @@
 # <span style="font-family: 'Montserrat', sans-serif, 'Maple Mono';">Hello, I'm CloudingYu 👋</span>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Maple+Mono&style=italic&weight=300&size=32&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&height=60&lines=System.out.println(%22Welcome!%22)%3B;cout+%3C%3C+%22Welcome!%22+%3C%3C+endl%3B;print(%22Welcome!%22);console.log(%22Welcome!%22)%3B" alt="Multi-language Welcome" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Maple+Mono&style=italic&weight=300&size=32&duration=3000&pause=1000&color=41B883&center=true&width=600&height=60&separator=%3D&lines=System.out.println(%22Welcome!%22);%3Dcout+%3C%3C+%22Welcome!%22+%3C%3C+endl;%3Dprint(%22Welcome!%22)%3Dconsole.log(%22Welcome!%22);" alt="Multi-language Welcome" />
 
 <div align="center">
   <p style="font-family: 'Georgia', serif;"><em>The elegance of Maple Mono italic brings code to life!</em>
