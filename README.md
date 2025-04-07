@@ -36,18 +36,21 @@
   
 </div>
 
+## ⏱️ Coding Time Stats
 
+<div align="center">
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcodetime.dev%2Fapi%2Fshield%3Fusername%3Dcloudingyu%26color%3D41B883" alt="CodeTime.dev Stats" />
+  
+  <a href="https://codetime.dev/cloudingyu" target="_blank">
+    <img src="https://codetime-readme.codetime.dev/cloudingyu" alt="CloudingYu's coding time" width="80%" />
+  </a>
+</div>
 
 ## 📊 My GitHub Stats
 
 <div align="center">
   <!-- 首先显示贡献图，作为最全面的概览 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloudingyu&theme=vue" alt="contribution graph" width="100%"/>
-  
-  <br><br>
-  
-  <!-- 连续提交记录 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudingyu&theme=vue" alt="cloudingyu" />
   
   <br><br>
   
