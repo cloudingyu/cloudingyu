@@ -1,20 +1,21 @@
-# 你好，我是 CloudingYu 👋
+# Hello, I'm CloudingYu 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
   <br><br>
-  <p><em>"好奇心仅是引领我们启程的火种。它点燃了我们对未知的渴望，却不足以照亮整个旅程"</em></p>
+  <p><em>"Curiosity is merely the spark that leads us to begin our journey. It ignites our desire for the unknown, yet is insufficient to illuminate the entire path."</em></p>
 </div>
 
-## 🚀 关于我
+## 🚀 About Me
 
-- 💡 热爱将复杂问题简单化，用优雅代码解决实际问题
-- 🎮 业余游戏开发爱好者，正在开发自己的小型独立游戏
-- 📚 终身学习者，永远保持好奇心
-- 🧬 从事宏基因组学相关研究，探索微生物组的奥秘
-- 🌐 访问我的博客：[cloudingyu.github.io](https://cloudingyu.github.io)
+- 💡 Love simplifying complex problems and solving real issues with elegant code
+- 🎮 Amateur game developer, currently working on my own indie game
+- 📚 Lifelong learner, always maintaining curiosity
+- 🧬 Engaged in metagenomics research, exploring the mysteries of the microbiome
+- 🎓 Undergraduate student at Fudan University
+- 🌐 Visit [my blog: ](https://cloudingyu.github.io)
 
-## 💻 技术栈
+## 💻 Tech Stack
 
 <div align="center">
   
@@ -26,14 +27,16 @@
   
 </div>
 
-## 📊 我的 GitHub 统计
+## 📊 My GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudingyu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudingyu&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudingyu&theme=radical" alt="cloudingyu" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloudingyu&theme=radical" alt="contribution graph"/>
 </div>
 
-## 🔭 我的最近活动
+## 🔭 My Recent Activities
 
 <div align="center">
   
@@ -42,12 +45,6 @@
   
 </div>
 
-## 🎯 每周编码时间
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudingyu&theme=radical" alt="cloudingyu" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cloudingyu&color=blueviolet" alt="访问计数器" />
+  <img src="https://komarev.com/ghpvc/?username=cloudingyu&color=blueviolet" alt="Profile Views Counter" />
 </div>
