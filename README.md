@@ -1,19 +1,27 @@
-# Hello, I'm CloudingYu 👋
+# <span style="font-family: 'Montserrat', sans-serif, 'Maple Mono';">Hello, I'm CloudingYu 👋</span>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Maple+Mono&style=italic&weight=300&size=32&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&height=60&lines=System.out.println(%22Welcome!%22)%3B;cout+%3C%3C+%22Welcome!%22+%3C%3C+endl%3B;print(%22Welcome!%22);console.log(%22Welcome!%22)%3B" alt="Multi-language Welcome" />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-  <br><br>
-  <p><em>"Curiosity is merely the spark that leads us to begin our journey. It ignites our desire for the unknown, yet is insufficient to illuminate the entire path."</em></p>
+  <p style="font-family: 'Georgia', serif;"><em>The elegance of Maple Mono italic brings code to life!</em>
 </div>
+
+
 
 ## 🚀 About Me
 
 - 💡 Love simplifying complex problems and solving real issues with elegant code
-- 🎮 Amateur game developer, currently working on my own indie game
+- 🎮 Amateur game ~~developer~~ player
 - 📚 Lifelong learner, always maintaining curiosity
 - 🧬 Engaged in metagenomics research, exploring the mysteries of the microbiome
 - 🎓 Undergraduate student at Fudan University
-- 🌐 Visit [my blog: ](https://cloudingyu.github.io)
+- 🌐 Visit [my blog](https://cloudingyu.github.io)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <br><br>
+  <p style="font-family: 'Georgia', serif;"><em>"Curiosity is merely the spark that leads us to begin our journey. It ignites our desire for the unknown, yet is insufficient to illuminate the entire path."</em></p>
+</div>
 
 ## 💻 Tech Stack
 
@@ -27,13 +35,26 @@
   
 </div>
 
+
+
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudingyu&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudingyu&layout=compact&langs_count=7&theme=vue"/>
+  <!-- 首先显示贡献图，作为最全面的概览 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloudingyu&theme=vue" alt="contribution graph" width="100%"/>
+  
+  <br><br>
+  
+  <!-- 连续提交记录 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudingyu&theme=vue" alt="cloudingyu" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloudingyu&theme=vue" alt="contribution graph"/>
+  
+  <br><br>
+  
+  <!-- 左右并排的统计和语言 -->
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudingyu&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudingyu&layout=compact&langs_count=7&theme=vue"/>
+  </p>
 </div>
 
 ## 🔭 My Recent Activities
