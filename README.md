@@ -1,7 +1,7 @@
 # Hello, I'm CloudingYu 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
   <br><br>
   <p><em>"Curiosity is merely the spark that leads us to begin our journey. It ignites our desire for the unknown, yet is insufficient to illuminate the entire path."</em></p>
 </div>
@@ -30,10 +30,10 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudingyu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudingyu&layout=compact&langs_count=7&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudingyu&theme=radical" alt="cloudingyu" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloudingyu&theme=radical" alt="contribution graph"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudingyu&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudingyu&layout=compact&langs_count=7&theme=vue"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudingyu&theme=vue" alt="cloudingyu" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloudingyu&theme=vue" alt="contribution graph"/>
 </div>
 
 ## 🔭 My Recent Activities
@@ -46,5 +46,13 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cloudingyu&color=blueviolet" alt="Profile Views Counter" />
+  <a href="https://github.com/cloudingyu?tab=followers">
+    <img src="https://img.shields.io/github/followers/cloudingyu?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/cloudingyu?tab=stars">
+    <img src="https://img.shields.io/github/stars/cloudingyu?style=social" alt="GitHub stars">
+  </a>
+  <br>
+
+  <img src="https://img.shields.io/github/last-commit/cloudingyu/cloudingyu" alt="Last Commit">
 </div>
