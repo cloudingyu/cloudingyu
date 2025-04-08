@@ -52,14 +52,6 @@
   </p>
 </div>
 
-## 🔭 My Recent Activities
-
-<div align="center">
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-  
-</div>
 
 <div align="center">
   <a href="https://github.com/cloudingyu?tab=followers">
