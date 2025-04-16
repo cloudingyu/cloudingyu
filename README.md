@@ -16,7 +16,7 @@
 - 📚 Lifelong learner, always maintaining curiosity
 - 🧬 Engaged in metagenomics research, exploring the mysteries of the microbiome
 - 🎓 Undergraduate student at Fudan University
-- 🌐 Visit [my blog](https://cloudingyu.github.io)
+- 🌐 Visit [my blog](https://cloudingyu.top)
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
