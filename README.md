@@ -12,7 +12,6 @@
 - 💡 Love simplifying complex problems and solving real issues with elegant code
 - 🎮 Amateur game ~~developer~~ player
 - 📚 Lifelong learner, always maintaining curiosity
-- 🧬 Engaged in metagenomics research, exploring the mysteries of the microbiome
 - 🎓 Undergraduate student at Fudan University
 - 🌐 Visit [my blog](https://cloudingyu.github.io)
 
